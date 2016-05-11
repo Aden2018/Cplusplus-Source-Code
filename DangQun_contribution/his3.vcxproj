@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <SccProjectName />
+    <SccLocalPath />
+    <Keyword>MFCProj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>.\Release\</OutDir>
+    <IntDir>.\Release\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <StringPooling>true</StringPooling>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <Optimization>MinSpace</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>.\Release\</AssemblerListingLocation>
+      <PrecompiledHeaderOutputFile>.\Release\his3.pch</PrecompiledHeaderOutputFile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+      <ObjectFileName>.\Release\</ObjectFileName>
+      <ProgramDataBaseFileName>.\Release\</ProgramDataBaseFileName>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\Release\his3.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\Release\his3.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <SubSystem>Windows</SubSystem>
+      <OutputFile>.\Release\his3.exe</OutputFile>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="AdoTest.cpp" />
+    <ClCompile Include="AES.cpp" />
+    <ClCompile Include="ChildFrm.cpp" />
+    <ClCompile Include="ComBoxEx.cpp" />
+    <ClCompile Include="ComFunc.cpp" />
+    <ClCompile Include="CostBudget.cpp" />
+    <ClCompile Include="CostClass2Add.cpp" />
+    <ClCompile Include="CostClass2Modify.cpp" />
+    <ClCompile Include="CostClassA.cpp" />
+    <ClCompile Include="CostClassAadd.cpp" />
+    <ClCompile Include="CostClassAb.cpp" />
+    <ClCompile Include="CostClassAmodify.cpp" />
+    <ClCompile Include="CostConsumeAdd.cpp" />
+    <ClCompile Include="DechargeQuery.cpp" />
+    <ClCompile Include="DepartSet.cpp" />
+    <ClCompile Include="DialogAccountQuery.cpp" />
+    <ClCompile Include="DialogFromFileReadTxt.cpp" />
+    <ClCompile Include="DialogHjSf.cpp" />
+    <ClCompile Include="DialogReportView.cpp" />
+    <ClCompile Include="DialogSickGetMed.cpp" />
+    <ClCompile Include="DialogUpgrade.cpp" />
+    <ClCompile Include="DialogUseAllQuery.cpp" />
+    <ClCompile Include="DialogWait.cpp" />
+    <ClCompile Include="EditFlat.cpp" />
+    <ClCompile Include="excel9.cpp" />
+    <ClCompile Include="ExesList.cpp" />
+    <ClCompile Include="FormGhList.cpp" />
+    <ClCompile Include="FormGhList_del.cpp" />
+    <ClCompile Include="GhQuery.cpp" />
+    <ClCompile Include="GhQuery_del.cpp" />
+    <ClCompile Include="GridCell.cpp" />
+    <ClCompile Include="GridCellBase.cpp" />
+    <ClCompile Include="GridCellCombo.cpp" />
+    <ClCompile Include="GridCtrl.cpp" />
+    <ClCompile Include="GridDropTarget.cpp" />
+    <ClCompile Include="his3.cpp" />
+    <ClCompile Include="his3Doc.cpp" />
+    <ClCompile Include="his3View.cpp" />
+    <ClCompile Include="InPlaceEdit.cpp" />
+    <ClCompile Include="Journal.cpp" />
+    <ClCompile Include="JournalFee.cpp" />
+    <ClCompile Include="Lock.cpp" />
+    <ClCompile Include="Logon.cpp" />
+    <ClCompile Include="LYComBox.cpp" />
+    <ClCompile Include="MainFrm.cpp" />
+    <ClCompile Include="MakeFee.cpp" />
+    <ClCompile Include="Mdiclient.cpp" />
+    <ClCompile Include="Medcode.cpp" />
+    <ClCompile Include="MedcodeAdd.cpp" />
+    <ClCompile Include="MedcodeModify.cpp" />
+    <ClCompile Include="MedConsumeQuery.cpp" />
+    <ClCompile Include="MedQuery.cpp" />
+    <ClCompile Include="MedStockList.cpp" />
+    <ClCompile Include="mshflexgrid.cpp" />
+    <ClCompile Include="OperatorSel.cpp" />
+    <ClCompile Include="PeculiarAdd.cpp" />
+    <ClCompile Include="PersonQuery.cpp" />
+    <ClCompile Include="PersonQueryHayb.cpp" />
+    <ClCompile Include="PersonQueryJMTC.cpp" />
+    <ClCompile Include="PersonQueryOtherSick.cpp" />
+    <ClCompile Include="PersonQueryQpyb.cpp" />
+    <ClCompile Include="PersonQueryRelate.cpp" />
+    <ClCompile Include="PrivilegeQuota.cpp" />
+    <ClCompile Include="ProgressEx.cpp" />
+    <ClCompile Include="ProgressIndicate.cpp" />
+    <ClCompile Include="QiuXpButton.cpp" />
+    <ClCompile Include="RegisterGh.cpp" />
+    <ClCompile Include="ReportDechargeList.cpp" />
+    <ClCompile Include="ReportEmpCount.cpp" />
+    <ClCompile Include="ReportEmpJSB.cpp" />
+    <ClCompile Include="ReportMedConsume.cpp" />
+    <ClCompile Include="ReportUsedAll.cpp" />
+    <ClCompile Include="ReportUsedAll1.cpp" />
+    <ClCompile Include="ReportUsedAllQuery.cpp" />
+    <ClCompile Include="RightManage.cpp" />
+    <ClCompile Include="SickGetMedView.cpp" />
+    <ClCompile Include="SpecReporter.cpp" />
+    <ClCompile Include="SpecReporterManager.cpp" />
+    <ClCompile Include="Splash.cpp" />
+    <ClCompile Include="StdAfx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">stdafx.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <ClCompile Include="TitleTip.cpp" />
+    <ClCompile Include="UserManage.cpp" />
+    <ClCompile Include="UserQuery.cpp" />
+    <ClCompile Include="ViewUserComuse.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="his3.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AdoTest.h" />
+    <ClInclude Include="AES.h" />
+    <ClInclude Include="ChildFrm.h" />
+    <ClInclude Include="ComBoxEx.h" />
+    <ClInclude Include="ComFunc.h" />
+    <ClInclude Include="CostBudget.h" />
+    <ClInclude Include="CostClass2Add.h" />
+    <ClInclude Include="CostClass2Modify.h" />
+    <ClInclude Include="CostClassA.h" />
+    <ClInclude Include="CostClassAadd.h" />
+    <ClInclude Include="CostClassAb.h" />
+    <ClInclude Include="CostClassAmodify.h" />
+    <ClInclude Include="CostConsumeAdd.h" />
+    <ClInclude Include="DechargeQuery.h" />
+    <ClInclude Include="DepartSet.h" />
+    <ClInclude Include="DialogAccountQuery.h" />
+    <ClInclude Include="DialogFromFileReadTxt.h" />
+    <ClInclude Include="DialogHjSf.h" />
+    <ClInclude Include="DialogReportView.h" />
+    <ClInclude Include="DialogSickGetMed.h" />
+    <ClInclude Include="DialogUpgrade.h" />
+    <ClInclude Include="DialogUseAllQuery.h" />
+    <ClInclude Include="DialogWait.h" />
+    <ClInclude Include="EditFlat.h" />
+    <ClInclude Include="excel9.h" />
+    <ClInclude Include="ExesList.h" />
+    <ClInclude Include="FormGhList.h" />
+    <ClInclude Include="FormGhList_del.h" />
+    <ClInclude Include="GhQuery.h" />
+    <ClInclude Include="GhQuery_del.h" />
+    <ClInclude Include="GridCell.h" />
+    <ClInclude Include="GridCellBase.h" />
+    <ClInclude Include="GridCellCombo.h" />
+    <ClInclude Include="GridCtrl.h" />
+    <ClInclude Include="GridDropTarget.h" />
+    <ClInclude Include="his3.h" />
+    <ClInclude Include="his3Doc.h" />
+    <ClInclude Include="his3View.h" />
+    <ClInclude Include="InPlaceEdit.h" />
+    <ClInclude Include="Journal.h" />
+    <ClInclude Include="JournalFee.h" />
+    <ClInclude Include="Lock.h" />
+    <ClInclude Include="Logon.h" />
+    <ClInclude Include="LYComBox.h" />
+    <ClInclude Include="MainFrm.h" />
+    <ClInclude Include="MakeFee.h" />
+    <ClInclude Include="Mdiclient.h" />
+    <ClInclude Include="Medcode.h" />
+    <ClInclude Include="MedcodeAdd.h" />
+    <ClInclude Include="MedcodeModify.h" />
+    <ClInclude Include="MedConsumeQuery.h" />
+    <ClInclude Include="MedQuery.h" />
+    <ClInclude Include="MedStockList.h" />
+    <ClInclude Include="mshflexgrid.h" />
+    <ClInclude Include="OperatorSel.h" />
+    <ClInclude Include="PeculiarAdd.h" />
+    <ClInclude Include="PersonQuery.h" />
+    <ClInclude Include="PersonQueryHayb.h" />
+    <ClInclude Include="PersonQueryJMTC.h" />
+    <ClInclude Include="PersonQueryOtherSick.h" />
+    <ClInclude Include="PersonQueryQpyb.h" />
+    <ClInclude Include="PersonQueryRelate.h" />
+    <ClInclude Include="PrivilegeQuota.h" />
+    <ClInclude Include="ProgressEx.h" />
+    <ClInclude Include="ProgressIndicate.h" />
+    <ClInclude Include="QiuXpButton.h" />
+    <ClInclude Include="RegisterGh.h" />
+    <ClInclude Include="ReportDechargeList.h" />
+    <ClInclude Include="ReportEmpCount.h" />
+    <ClInclude Include="ReportEmpJSB.h" />
+    <ClInclude Include="ReportMedConsume.h" />
+    <ClInclude Include="ReportUsedAll.h" />
+    <ClInclude Include="ReportUsedAll1.h" />
+    <ClInclude Include="ReportUsedAllQuery.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="RightManage.h" />
+    <ClInclude Include="SickGetMedView.h" />
+    <ClInclude Include="SpecReporter.h" />
+    <ClInclude Include="SpecReporterManager.h" />
+    <ClInclude Include="Splash.h" />
+    <ClInclude Include="StdAfx.h" />
+    <ClInclude Include="TitleTip.h" />
+    <ClInclude Include="UserManage.h" />
+    <ClInclude Include="UserQuery.h" />
+    <ClInclude Include="ViewUserComuse.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="res\0.ico" />
+    <CustomBuild Include="res\32.ico" />
+    <CustomBuild Include="res\Application _ iCal.ico" />
+    <CustomBuild Include="res\firstaid.ico" />
+    <CustomBuild Include="res\his3.ico" />
+    <CustomBuild Include="res\his3.rc2">
+      <FileType>RC</FileType>
+    </CustomBuild>
+    <CustomBuild Include="res\his3Doc.ico" />
+    <CustomBuild Include="res\logo.bmp" />
+    <CustomBuild Include="mdi.ico" />
+    <CustomBuild Include="res\Sherlock.ico" />
+    <CustomBuild Include="res\Text.ico" />
+    <CustomBuild Include="res\Toolbar.bmp" />
+    <CustomBuild Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="res\bitmap1.bmp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties RESOURCE_FILE="his3.rc" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>
