@@ -1,0 +1,705 @@
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.12.10)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=hydc)(CID=(PROGRAM=E:\hy.power\his2\Release\his2.exe)(HOST=YIPINMEI-HY)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 26-2月 -2005 13:17:58
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS：协议适配器出现错误
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NETWORK; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=E:\hy.power\his2\Release\his2.exe)(HOST=YIPINMEI-HY)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 26-2月 -2005 13:17:58
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS：协议适配器出现错误
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: 协议适配器错误
+    nt secondary err code: 126
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.12.10)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=hydc)(CID=(PROGRAM=E:\hy.power\his2\Release\his2.exe)(HOST=YIPINMEI-HY)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 26-2月 -2005 13:18:10
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS：协议适配器出现错误
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NETWORK; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=E:\hy.power\his2\Release\his2.exe)(HOST=YIPINMEI-HY)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 26-2月 -2005 13:18:10
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS：协议适配器出现错误
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: 协议适配器错误
+    nt secondary err code: 126
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.12.10)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=hydc)(CID=(PROGRAM=E:\hy.power\his2\Release\his2.exe)(HOST=YIPINMEI-HY)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 26-2月 -2005 13:22:12
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS：协议适配器出现错误
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NETWORK; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=E:\hy.power\his2\Release\his2.exe)(HOST=YIPINMEI-HY)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 26-2月 -2005 13:22:12
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS：协议适配器出现错误
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: 协议适配器错误
+    nt secondary err code: 126
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.12.10)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=hydc)(CID=(PROGRAM=E:\hy.power\his2\Release\his2.exe)(HOST=YIPINMEI-HY)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 26-2月 -2005 13:22:37
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS：协议适配器出现错误
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NETWORK; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=E:\hy.power\his2\Release\his2.exe)(HOST=YIPINMEI-HY)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 26-2月 -2005 13:22:37
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS：协议适配器出现错误
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: 协议适配器错误
+    nt secondary err code: 126
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.12.10)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=hydc)(CID=(PROGRAM=E:\hy.power\his2\Release\his2.exe)(HOST=YIPINMEI-HY)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 26-2月 -2005 13:22:42
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS：协议适配器出现错误
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NETWORK; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=E:\hy.power\his2\Release\his2.exe)(HOST=YIPINMEI-HY)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 26-2月 -2005 13:22:42
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS：协议适配器出现错误
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: 协议适配器错误
+    nt secondary err code: 126
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=msyy)(CID=(PROGRAM=E:\My studio\his2\Release\his2.exe)(HOST=JSHY)(USER=LingSQ))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 24-4月 -2005 10:16:28
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS：协议适配器出现错误
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NETWORK; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=msyy)(CID=(PROGRAM=E:\My studio\his2\Release\his2.exe)(HOST=JSHY)(USER=LingSQ))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 24-4月 -2005 10:19:00
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS：协议适配器出现错误
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NETWORK; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=msyy)(CID=(PROGRAM=E:\My studio\his2\Release\his2.exe)(HOST=JSHY)(USER=LingSQ))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 24-4月 -2005 10:19:04
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS：协议适配器出现错误
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NETWORK; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=msyy)(CID=(PROGRAM=E:\My studio\his2\Release\his2.exe)(HOST=JSHY)(USER=LingSQ))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 24-4月 -2005 10:19:16
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS：协议适配器出现错误
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NETWORK; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=lsq2lsq)(CID=(PROGRAM=E:\My studio\his2\Release\his2.exe)(HOST=JSHY)(USER=LingSQ))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 17-6月 -2005 14:51:36
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12541
+    TNS-12541: TNS：无监听器
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 无监听器
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oraclelsq2lsq)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=lsq2lsq)(CID=(PROGRAM=E:\My studio\his2\Release\his2.exe)(HOST=JSHY)(USER=LingSQ))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 17-6月 -2005 14:51:36
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS：协议适配器出现错误
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: 协议适配器错误
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=lsq2lsq)(CID=(PROGRAM=E:\My studio\his2\Release\his2.exe)(HOST=JSHY)(USER=LingSQ))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 17-6月 -2005 14:52:30
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12541
+    TNS-12541: TNS：无监听器
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 无监听器
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oraclelsq2lsq)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=lsq2lsq)(CID=(PROGRAM=E:\My studio\his2\Release\his2.exe)(HOST=JSHY)(USER=LingSQ))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 17-6月 -2005 14:52:30
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS：协议适配器出现错误
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: 协议适配器错误
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=msyy)(CID=(PROGRAM=E:\My studio\his2\Release\his2.exe)(HOST=JSHY)(USER=LingSQ))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 16-10月-2005 17:31:44
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS：操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oraclehospital)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=hospital)(CID=(PROGRAM=D:\Vc++ studio\his2\Release\his2.exe)(HOST=F8BBF92BFE5949F)(USER=sony))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.7.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.7.0.0 - Production
+  Time: 30-11月-2005 17:34:41
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS：协议适配器出现错误
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: 协议适配器错误
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.12.10)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=hydc)(CID=(PROGRAM=D:\Vc++ studio\his2\Release\his2.exe)(HOST=F8BBF92BFE5949F)(USER=sony))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.7.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.7.0.0 - Production
+  Time: 03-12月-2005 15:43:38
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS：协议适配器出现错误
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NETWORK; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.12.10)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=hydc)(CID=(PROGRAM=D:\Vc++ studio\his2\Release\his2.exe)(HOST=F8BBF92BFE5949F)(USER=sony))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.7.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.7.0.0 - Production
+  Time: 17-4月 -2006 11:15:25
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS：协议适配器出现错误
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NETWORK; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.12.15)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=D:\Vc++ studio\his2\Release\his2.exe)(HOST=F8BBF92BFE5949F)(USER=sony))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.7.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.7.0.0 - Production
+  Time: 30-7月 -2006 15:18:24
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS：协议适配器出现错误
+    ns secondary err code: 0
+    nt main err code: 538
+    TNS-00538: Message 538 not found;  product=NETWORK; facility=TNS
+
+    nt secondary err code: 65
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=D:\Vc++ studio\his2\Release\his2.exe)(HOST=F8BBF92BFE5949F)(USER=sony))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.7.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.7.0.0 - Production
+  Time: 30-7月 -2006 15:18:45
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12564
+    TNS-12564: TNS：拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=D:\Vc++ studio\his2\Release\his2.exe)(HOST=F8BBF92BFE5949F)(USER=sony))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.7.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.7.0.0 - Production
+  Time: 30-7月 -2006 15:18:51
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12564
+    TNS-12564: TNS：拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oraclehospital)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=hospital)(CID=(PROGRAM=D:\Vc++ studio\his2\Release\his2.exe)(HOST=F8BBF92BFE5949F)(USER=sony))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.7.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.7.0.0 - Production
+  Time: 30-8月 -2006 20:30:08
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS：协议适配器出现错误
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: 协议适配器错误
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=hydc)(CID=(PROGRAM=D:\Vc++ studio\his2\Release\his2.exe)(HOST=F8BBF92BFE5949F)(USER=sony))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.7.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.7.0.0 - Production
+  Time: 04-9月 -2006 10:42:52
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12564
+    TNS-12564: TNS：拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=hydc)(CID=(PROGRAM=H:\DATA\源程序代码\his2\Release\his2.exe)(HOST=HY-4FB65834E5EC)(USER=workstation))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 20-8月 -2008 10:45:20
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12564
+    TNS-12564: TNS：拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=hydc)(CID=(PROGRAM=H:\DATA\源程序代码\his2\Release\his2.exe)(HOST=HY-4FB65834E5EC)(USER=workstation))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 20-8月 -2008 10:48:03
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12564
+    TNS-12564: TNS：拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=hydc)(CID=(PROGRAM=H:\DATA\源程序代码\his2\Release\his2.exe)(HOST=HY-4FB65834E5EC)(USER=workstation))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 20-8月 -2008 10:49:33
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12564
+    TNS-12564: TNS：拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=hydc)(CID=(PROGRAM=H:\DATA\源程序代码\his2\Release\his2.exe)(HOST=HY-4FB65834E5EC)(USER=workstation))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 20-8月 -2008 10:49:36
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12564
+    TNS-12564: TNS：拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=hydc)(CID=(PROGRAM=F:\proCode\his2\Release\his2.exe)(HOST=JS-64372CD722B7)(USER=workstation))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 03-10月-2008 17:10:45
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12541
+    TNS-12541: TNS：无监听器
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 无监听器
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=F:\proCode\his2\Release\his2.exe)(HOST=JS-64372CD722B7)(USER=workstation))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 03-10月-2008 17:10:45
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS: 协议适配器错误
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: 协议适配器错误
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=hydc)(CID=(PROGRAM=E:\develop\proCode\his2\Release\his2.exe)(HOST=DELL-8F9F1715A8)(USER=works))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 10-6月 -2009 09:35:22
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12541
+    TNS-12541: TNS：无监听器
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 无监听器
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oraclehydc)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=hydc)(CID=(PROGRAM=E:\develop\proCode\his2\Release\his2.exe)(HOST=DELL-8F9F1715A8)(USER=works))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 10-6月 -2009 09:35:22
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS: 协议适配器错误
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: 协议适配器错误
+    nt secondary err code: 2
+    nt OS err code: 0

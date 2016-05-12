@@ -1,0 +1,32 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "his2"=.\his2.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+    {0ECD9B64-23AA-11D0-B351-00A0C9055D8E}
+    {3B7C8860-D78F-101B-B9B5-04021C009402}
+    {3A2B370C-BA0A-11D1-B137-0000F8753F5D}
+}}}
+
+###############################################################################
+

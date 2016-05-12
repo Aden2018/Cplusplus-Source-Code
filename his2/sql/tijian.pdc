@@ -1,0 +1,69 @@
+-- Create table
+create table HIS.TIJIAN
+(
+  KAHAO    VARCHAR2(20),
+  RIQI     DATE,
+  A1       VARCHAR2(10),
+  A2       VARCHAR2(20),
+  A3       VARCHAR2(50),
+  A4       VARCHAR2(50),
+  A5       VARCHAR2(150),
+  A6       VARCHAR2(150),
+  A7       VARCHAR2(150),
+  A8       VARCHAR2(150),
+  A9       VARCHAR2(150),
+  A10      VARCHAR2(50),
+  A11      VARCHAR2(50),
+  A12      VARCHAR2(50),
+  A13      VARCHAR2(50),
+  A14      VARCHAR2(50),
+  A15      VARCHAR2(50),
+  A16      VARCHAR2(50),
+  A17      VARCHAR2(50),
+  A18      VARCHAR2(50),
+  A19      VARCHAR2(50),
+  A20      VARCHAR2(50),
+  A21      VARCHAR2(50),
+  A22      VARCHAR2(50),
+  A23      VARCHAR2(50),
+  A24      VARCHAR2(50),
+  A25      VARCHAR2(50),
+  A26      VARCHAR2(50),
+  A27      VARCHAR2(50),
+  A28      VARCHAR2(150),
+  A29      VARCHAR2(150),
+  A30      VARCHAR2(150),
+  A31      VARCHAR2(250),
+  A32      VARCHAR2(250),
+  TSGF     VARCHAR2(32),
+  AFP      VARCHAR2(32),
+  CEA      VARCHAR2(32),
+  LS       VARCHAR2(32),
+  REC_NAME VARCHAR2(32),
+  REC_DATE DATE,
+  REC_COMM VARCHAR2(4000)
+)
+tablespace USERS
+  pctfree 10
+  pctused 40
+  initrans 1
+  maxtrans 255
+  storage
+  (
+    initial 768K
+    next 328K
+    minextents 1
+    maxextents 505
+    pctincrease 50
+  );
+-- Add comments to the columns 
+comment on column HIS.TIJIAN.TSGF
+  is '肿瘤三项一';
+comment on column HIS.TIJIAN.AFP
+  is '肿瘤三项二';
+comment on column HIS.TIJIAN.CEA
+  is '肿瘤三项三';
+comment on column HIS.TIJIAN.LS
+  is '尿酸';
+comment on column HIS.TIJIAN.REC_COMM
+  is '备注';
