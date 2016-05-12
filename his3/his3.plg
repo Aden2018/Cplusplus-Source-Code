@@ -1,0 +1,102 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: his3 - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Release/his3.res" /d "NDEBUG" /d "_AFXDLL" "C:\develop\proCode\his3\his3.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1B0.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:no /pdb:"Release/his3.pdb" /machine:I386 /out:"Release/his3.exe" 
+.\Release\AffinityQuery.obj
+.\Release\ChildFrm.obj
+.\Release\ComBoxEx.obj
+.\Release\ComFunc.obj
+.\Release\CostBudget.obj
+.\Release\CostClass2Add.obj
+.\Release\CostClass2Modify.obj
+.\Release\CostClassA.obj
+.\Release\CostClassAadd.obj
+.\Release\CostClassAb.obj
+.\Release\CostClassAmodify.obj
+.\Release\CostConsumeAdd.obj
+.\Release\DechargeQuery.obj
+.\Release\DepartSet.obj
+.\Release\DialogAccountQuery.obj
+.\Release\DialogHjSf.obj
+.\Release\DialogReportView.obj
+.\Release\DialogSickGetMed.obj
+.\Release\DialogUpgrade.obj
+.\Release\DialogUseAllQuery.obj
+.\Release\DialogWait.obj
+.\Release\EditFlat.obj
+.\Release\EmpQuery.obj
+.\Release\excel9.obj
+.\Release\ExesList.obj
+.\Release\FormGhList.obj
+.\Release\FormGhList_del.obj
+.\Release\GhQuery.obj
+.\Release\GhQuery_del.obj
+.\Release\GridCell.obj
+.\Release\GridCellBase.obj
+.\Release\GridCtrl.obj
+.\Release\GridDropTarget.obj
+.\Release\his3.obj
+.\Release\his3Doc.obj
+.\Release\his3View.obj
+.\Release\InPlaceEdit.obj
+.\Release\Lock.obj
+.\Release\Logon.obj
+.\Release\MainFrm.obj
+.\Release\Mdiclient.obj
+.\Release\Medcode.obj
+.\Release\MedcodeAdd.obj
+.\Release\MedcodeModify.obj
+.\Release\MedConsumeQuery.obj
+.\Release\MedQuery.obj
+.\Release\MedStockList.obj
+.\Release\mshflexgrid.obj
+.\Release\OperatorSel.obj
+.\Release\PeculiarAdd.obj
+.\Release\PersonQuery.obj
+.\Release\PersonQueryHayb.obj
+.\Release\PersonQueryJMTC.obj
+.\Release\PersonQueryOtherSick.obj
+.\Release\PersonQueryQpyb.obj
+.\Release\PersonQueryRelate.obj
+.\Release\PlanAsWhole.obj
+.\Release\PrivilegeQuota.obj
+.\Release\ProgressEx.obj
+.\Release\ProgressIndicate.obj
+.\Release\QiuXpButton.obj
+.\Release\RegisterGh.obj
+.\Release\RelateQuery.obj
+.\Release\ReportDechargeList.obj
+.\Release\ReportEmpCount.obj
+.\Release\ReportEmpJSB.obj
+.\Release\ReportMedConsume.obj
+.\Release\ReportUsedAll.obj
+.\Release\ReportUsedAll1.obj
+.\Release\ReportUsedAllQuery.obj
+.\Release\SickGetMedView.obj
+.\Release\Splash.obj
+.\Release\StdAfx.obj
+.\Release\TitleTip.obj
+.\Release\UserQuery.obj
+.\Release\ViewUserComuse.obj
+.\Release\his3.res
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1B0.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+his3.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
